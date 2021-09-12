@@ -1,4 +1,4 @@
-# LINEAR_ALGEBRA-AND-RANDOM-PROCESSES
+# LINEAR_ALGEBRA-AND-RANDOM-PROCESSES (LARP)
 Following is an programming assignment on dimensionality reduction and Image Compression using Eigen Value Decomposition and Singular Value Decomposition
 Dataset_1 contains 2d dataset required for 2d_data.ipynb file.
 Dataset_2 contains 10d dataset required for 10d_data.ipynb file.
